@@ -31,3 +31,8 @@ for lab,row in cars.iterrows():
 
 # Print cars
 print(cars)
+
+# Use .apply(str.upper)
+for lab, row in cars.iterrows() :
+    #cars.loc[lab, "COUNTRY"] = row["country"].upper()\
+    cars["COUNTRY"] = cars["country"].apply(str.upper)

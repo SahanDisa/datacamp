@@ -43,7 +43,7 @@ for i in range(10) :
             step = step + np.random.randint(1,7)
             
         # Implement clumsiness
-        if step <= 0.001 :
+        if np.random.rand() <= 0.001 :
             step = 0
 
         random_walk.append(step)

@@ -18,3 +18,16 @@ for x in np.nditer(np_height):
 # For loop over np_baseball
 for y in np.nditer(np_baseball):
     print(y)
+
+# Import cars data
+import pandas as pd
+cars = pd.read_csv('cars.csv', index_col = 0)
+
+# Code for loop that adds COUNTRY column
+for lab,row in cars.iterrows():
+    cars.loc[lab, "COUNTRY"] = len(row['country'])
+    cars.loc[lab, "mycolumn"] = row['cars_per_cap']*len(row['country'])
+
+
+# Print cars
+print(cars)

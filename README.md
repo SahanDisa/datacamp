@@ -7,3 +7,5 @@ data science and machine learning stuff
  * Python Lists
  * Python Functions and Packages
  * Numpy
+ * Matplotlib
+ * Pandas Series

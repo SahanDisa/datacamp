@@ -9,3 +9,9 @@ data science and machine learning stuff
  * Numpy
  * Matplotlib
  * Pandas Series
+ 
+ 
+### Projects
+
+  * Chatbot ( Echo II)
+  * 

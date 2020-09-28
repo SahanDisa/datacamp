@@ -1,5 +1,8 @@
 # datacamp
-data science and machine learning stuff
+
+Data science zero to hero 
+
+Data science and machine learning stuff
 
 ### Introduction to python
 

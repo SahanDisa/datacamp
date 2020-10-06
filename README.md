@@ -7,8 +7,11 @@ Data science and machine learning stuff in day today life needed for scholars :r
 ### How to Contribute
 
 > Fork the repository as yourusername/datacamp
+>
 > Create a new branch inside and do the changes and pass a Pull Request
+>
 > Please be noted about your condition
+>
 > Quality is the key, Quantity is fun, Cheers
 >
 

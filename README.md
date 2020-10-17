@@ -15,6 +15,10 @@ Data science and machine learning stuff in day today life needed for scholars :r
 > Quality is the key, Quantity is fun, Cheers
 >
 
+## Have a New Idea
+
+> Open a issue in issue section and do a pull request by including the issue tag 
+
 ### Introduction to python
 
  * Python Basics

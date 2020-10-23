@@ -15,6 +15,11 @@ Data science and machine learning stuff in day today life needed for scholars :r
 > Quality is the key, Quantity is fun, Cheers
 >
 
+### How to use
+
+Use the repostiory to gain the basic knowlege of python,R,SQL,Scala for functional programming, machine learning and data analysis
+stuff
+
 ## Have a New Idea
 
 > Open a issue in issue section and do a pull request by including the issue tag 

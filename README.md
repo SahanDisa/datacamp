@@ -32,6 +32,7 @@ stuff
  * Numpy
  * Matplotlib
  * Pandas Series
+ * sciket learn
  
  
 ### Projects

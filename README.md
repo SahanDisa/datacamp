@@ -25,6 +25,8 @@ stuff
 > Open a issue in issue section and do a pull request by including the issue tag 
 
 ### Introduction to python
+ 
+ > Coding guidelines for programming
 
  * Python Basics
  * Python Lists

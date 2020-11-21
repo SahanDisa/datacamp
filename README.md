@@ -1,6 +1,6 @@
 # datacamp
 
-Data science zero to hero 
+Data science & Machine Learning 101. Take your first step to learn machine learning and data science
 
 Data science and machine learning stuff in day today life needed for scholars :rocket
 

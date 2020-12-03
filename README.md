@@ -17,8 +17,7 @@ Data science and machine learning stuff in day today life needed for scholars :r
 
 ### How to use
 
-Use the repostiory to gain the basic knowlege of python,R,SQL,Scala for functional programming, machine learning and data analysis
-stuff
+Use the repostiory to gain the basic knowlege of python,R,Scala for functional programming, machine learning, data science and artificial intelligence
 
 ## Have a New Idea
 

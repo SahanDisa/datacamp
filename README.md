@@ -10,7 +10,7 @@ Data science and machine learning stuff in day today life needed for scholars :r
 >
 > Create a new branch inside and do the changes and pass a Pull Request
 >
-> Please be noted about your condition
+> Proper documentation is necessary to improve the readability
 >
 > Quality is the key, Quantity is fun, Cheers
 >
